@@ -47,3 +47,13 @@ Ans : I2C standard mode operates at a maximum frequency of 100 kHz, while fast m
 frequency of 400 kHz. Fast mode allows for faster data transfer rates but requires stronger pull-up resistors
 due to the higher data rate.
 ```
+# SPI protocol
+
+![image](https://github.com/user-attachments/assets/c18d1b23-5fba-45dc-91e4-bef4a029a0d4)
+
+
+# UART protocol
+![image](https://github.com/user-attachments/assets/3fd66942-2905-487d-b0b4-435b64438c9d)
+
+![image](https://github.com/user-attachments/assets/46243c57-c4db-4571-bbaf-fc7fe70a337f)
+
