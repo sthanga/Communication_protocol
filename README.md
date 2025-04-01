@@ -1,5 +1,5 @@
 # Communication_protocol
-Interview Preparation - I2C, SPI, UART, CAN, ETHERNET, LAN, UDP, IPMI, DBUS, IPC etc
+Interview Preparation - I2C, SPI, UART, CAN, ETHERNET, LAN, UDP, IPMI,REDFISH, DBUS, IPC etc
 
 # I2C
 ![image](https://github.com/user-attachments/assets/489ce3cd-cb04-4020-8ec8-0ccc26874612)
